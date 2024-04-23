@@ -1,0 +1,1 @@
+This project inspired by articles: [Habr: Свой AR. Маркеры](https://habr.com/ru/articles/547898/) [YouTube: От 2D к 3D на JavaScript. Часть 1](https://www.youtube.com/watch?v=YpH6EOnvo7c)
